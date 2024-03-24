@@ -9,7 +9,9 @@
     <h1>hola mundos</h1>
     <?php
     echo "hola fer";
+   
     ?>
+   
 </body>
 </html>
 
